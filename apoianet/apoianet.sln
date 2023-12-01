@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Apresentacao", "1 - Apresentacao", "{26E4E3AA-D0B4-4DFA-B34E-CA74239DCD93}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Dominio", "2 - Dominio", "{A38CFBBB-230F-48AD-A2FA-23CA834AE4BF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Servico", "3 - Servico", "{E14DF877-ED92-402B-8975-51CC2241B2C1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - Dados", "4 - Dados", "{E923C8E5-E1DB-4088-9423-E14D78C640ED}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5 - Util", "5 - Util", "{8DB7C86E-C0A5-480B-810E-BB858C0148FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apoianet.webapp", "..\apoianet.webapp\apoianet.webapp\apoianet.webapp.csproj", "{380B669A-5A1A-4B81-86EF-3E99070CE49C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{380B669A-5A1A-4B81-86EF-3E99070CE49C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380B669A-5A1A-4B81-86EF-3E99070CE49C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380B669A-5A1A-4B81-86EF-3E99070CE49C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380B669A-5A1A-4B81-86EF-3E99070CE49C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{380B669A-5A1A-4B81-86EF-3E99070CE49C} = {26E4E3AA-D0B4-4DFA-B34E-CA74239DCD93}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BC0AF99-23E0-4EE8-A8AE-7D0E38D62A84}
+	EndGlobalSection
+EndGlobal
